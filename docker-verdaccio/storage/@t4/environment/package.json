@@ -1,0 +1,207 @@
+{
+	"name": "@t4/environment",
+	"versions": {
+		"1.0.0": {
+			"name": "@t4/environment",
+			"version": "1.0.0",
+			"description": "",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": {
+				"name": "linhey"
+			},
+			"license": "ISC",
+			"_id": "@t4/environment@1.0.0",
+			"_npmVersion": "6.2.0",
+			"_nodeVersion": "10.9.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-2IV4O5g2nVqBJ8+0j6SYb0sCNaU7mC4kt6xSlI+AW20gF3XTalnVXutBoERbWuz0KRlivS25JFOmCe1jqjiqEw==",
+				"shasum": "065e8c60655e90d46c95a4f698b4f03e16616774",
+				"tarball": "http://127.0.0.1:4873/@t4/environment/-/@t4/environment-1.0.0.tgz"
+			}
+		},
+		"1.1.0": {
+			"name": "@t4/environment",
+			"version": "1.1.0",
+			"description": "",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": {
+				"name": "linhey"
+			},
+			"license": "ISC",
+			"_id": "@t4/environment@1.1.0",
+			"_npmVersion": "6.2.0",
+			"_nodeVersion": "10.9.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-ll8Oz40a/d+e90hxnxpPh/7es3ukC7JNAEIzVeerq6O7NtG5gWKoTSM2KGS0i3Eyjegz896yrPo65pvL2/PoyQ==",
+				"shasum": "0250741f7d0489e6239f8fd72dd325b1417b6b46",
+				"tarball": "http://127.0.0.1:4873/@t4/environment/-/@t4/environment-1.1.0.tgz"
+			}
+		},
+		"1.2.0": {
+			"name": "@t4/environment",
+			"version": "1.2.0",
+			"description": "",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": {
+				"name": "linhey"
+			},
+			"license": "ISC",
+			"_id": "@t4/environment@1.2.0",
+			"_npmVersion": "6.2.0",
+			"_nodeVersion": "10.9.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-fce2oCc4rw1L7X4mpL895KhcTJxphDt7Z/F0lnSRiF1HkdrAxnC356kHVSkQ1rjetKkJ1U5HYQ37ysqeA8+Plw==",
+				"shasum": "712d1b28e77f20977e055c8407bf51cd636e63f4",
+				"tarball": "http://127.0.0.1:4873/@t4/environment/-/@t4/environment-1.2.0.tgz"
+			}
+		},
+		"1.3.0": {
+			"name": "@t4/environment",
+			"version": "1.3.0",
+			"description": "",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": {
+				"name": "linhey"
+			},
+			"license": "ISC",
+			"_id": "@t4/environment@1.3.0",
+			"_npmVersion": "6.2.0",
+			"_nodeVersion": "10.9.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-rtfPzOCa9yN7hQUqeqsWzGu7E4BQ7y0nY0TpzGFbBUmgGWz9V5YgTv77Z57GKqOylgJlV3h0F1Nsu3KlQjFUig==",
+				"shasum": "3ff677b8984e548afc5ce3959e8656301e4082d5",
+				"tarball": "http://127.0.0.1:4873/@t4/environment/-/@t4/environment-1.3.0.tgz"
+			}
+		},
+		"1.4.0": {
+			"name": "@t4/environment",
+			"version": "1.4.0",
+			"description": "",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": {
+				"name": "linhey"
+			},
+			"license": "ISC",
+			"_id": "@t4/environment@1.4.0",
+			"_npmVersion": "6.2.0",
+			"_nodeVersion": "10.9.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-w8BKYNKL5InqHUPumZ+O5IiNiPaIBxMV0IQcMEtw3uzhEhbHPqBjGxUQcAPLe8HKN20EJb1LkzjFzVSLaMJuvQ==",
+				"shasum": "83c96d4077cff9d759a96b5975d90822b572d78e",
+				"tarball": "http://127.0.0.1:4873/@t4/environment/-/@t4/environment-1.4.0.tgz"
+			}
+		},
+		"1.5.0": {
+			"name": "@t4/environment",
+			"version": "1.5.0",
+			"description": "",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": {
+				"name": "linhey"
+			},
+			"license": "ISC",
+			"_id": "@t4/environment@1.5.0",
+			"_npmVersion": "6.2.0",
+			"_nodeVersion": "10.9.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-5nBuZaXhhiL5ewdBDKIlROlzODdyyGk1oOnCXfA8P8U/5vR72KMd9MUCTRM/Ew//sBXlGv1esP7yoDUg0MQvWQ==",
+				"shasum": "abc5eb1a1218642c4f50bb226103c3b606d0f9b0",
+				"tarball": "http://127.0.0.1:4873/@t4/environment/-/@t4/environment-1.5.0.tgz"
+			}
+		},
+		"1.5.2": {
+			"name": "@t4/environment",
+			"version": "1.5.2",
+			"description": "",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": {
+				"name": "linhey"
+			},
+			"license": "ISC",
+			"_id": "@t4/environment@1.5.2",
+			"_npmVersion": "6.2.0",
+			"_nodeVersion": "10.9.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-ngu5tP7zPWEmoH9vgllpfzSvsjooxsEmH5Wy1H3YFnQJxJXezqTATufg4MkImLfrDcFWS/G7kR0J0pSOzPsalA==",
+				"shasum": "ea42006eb366aeeaaf93618ff6593e4644763bc3",
+				"tarball": "http://127.0.0.1:4873/@t4/environment/-/@t4/environment-1.5.2.tgz"
+			}
+		}
+	},
+	"time": {
+		"modified": "2018-09-20T11:34:13.095Z",
+		"created": "2018-09-20T09:30:25.464Z",
+		"1.0.0": "2018-09-20T09:30:25.464Z",
+		"1.1.0": "2018-09-20T09:36:33.793Z",
+		"1.2.0": "2018-09-20T09:37:27.233Z",
+		"1.3.0": "2018-09-20T11:31:00.663Z",
+		"1.4.0": "2018-09-20T11:31:54.163Z",
+		"1.5.0": "2018-09-20T11:33:03.557Z",
+		"1.5.2": "2018-09-20T11:34:13.095Z"
+	},
+	"dist-tags": {
+		"latest": "1.5.2"
+	},
+	"_uplinks": {},
+	"_distfiles": {},
+	"_attachments": {
+		"environment-1.0.0.tgz": {
+			"shasum": "065e8c60655e90d46c95a4f698b4f03e16616774",
+			"version": "1.0.0"
+		},
+		"environment-1.1.0.tgz": {
+			"shasum": "0250741f7d0489e6239f8fd72dd325b1417b6b46",
+			"version": "1.1.0"
+		},
+		"environment-1.2.0.tgz": {
+			"shasum": "712d1b28e77f20977e055c8407bf51cd636e63f4",
+			"version": "1.2.0"
+		},
+		"environment-1.3.0.tgz": {
+			"shasum": "3ff677b8984e548afc5ce3959e8656301e4082d5",
+			"version": "1.3.0"
+		},
+		"environment-1.4.0.tgz": {
+			"shasum": "83c96d4077cff9d759a96b5975d90822b572d78e",
+			"version": "1.4.0"
+		},
+		"environment-1.5.0.tgz": {
+			"shasum": "abc5eb1a1218642c4f50bb226103c3b606d0f9b0",
+			"version": "1.5.0"
+		},
+		"environment-1.5.2.tgz": {
+			"shasum": "ea42006eb366aeeaaf93618ff6593e4644763bc3",
+			"version": "1.5.2"
+		}
+	},
+	"_rev": "24-282b6c8dbbf1971a",
+	"readme": "ERROR: No README data found!"
+}

@@ -1,0 +1,41 @@
+# 数据存储位置。** Verdaccio 默认使用内置本地文件模式存储。
+storage: /verdaccio/storage
+auth:
+  htpasswd:
+    # 注册用户列表
+    file: ./htpasswd
+    # 最大注册数 -1为禁止新用户注册
+    max_users: 1
+
+# 上行链路 是指可以访问到外部包的外部注册服务器地址。
+uplinks:
+  # 这里使用淘宝加速npm镜像源.
+  taobao:
+    url: https://registry.npm.taobao.org/
+    # 设置超时
+    timeout: 100ms
+  # 备用源
+  npmjs:
+    url: https://registry.npmjs.org/
+packages:
+  '@*/*':
+    # 定义允许访问包的组
+    access: $authenticated
+    # 定义允许发布的组
+    publish: $authenticated
+    # 针对特定的uplink限制查找
+    proxy: taobao
+  '**':
+    access: $authenticated
+    publish: $authenticated
+    # 针对特定的uplink限制查找
+    proxy: taobao
+logs:
+  - {type: stdout, format: pretty, level: http}
+web:
+  enable: true
+  # 标签名称
+  title: npm.linhey
+  # 左上角图标
+  logo: https://verdaccio.org/img/logo/banner/png/verdaccio-banner@2x.png
+  scope:
